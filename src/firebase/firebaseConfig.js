@@ -4,7 +4,7 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyA8WwIPN7eUiazqiDYp1Xy04m13Wp-BO3w",
+    apiKey: "...",
     authDomain: "journal-app-react-e7d18.firebaseapp.com",
     projectId: "journal-app-react-e7d18",
     storageBucket: "journal-app-react-e7d18.firebasestorage.app",
